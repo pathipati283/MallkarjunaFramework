@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-07T10:50:54Z" name="MainSuite" finished-at="2020-04-07T10:51:03Z" duration-ms="8857">
+    <groups>
+    </groups>
+    <test started-at="2020-04-07T10:50:54Z" name="NewTest" finished-at="2020-04-07T10:50:54Z" duration-ms="111">
+      <class name="mallikarjunaSelenium.mallikarjunaSelenium.Annotations3">
+        <test-method signature="annotation3Test99()[pri:0, instance:mallikarjunaSelenium.mallikarjunaSelenium.Annotations3@7fee8714]" started-at="2020-04-07T16:20:54Z" name="annotation3Test99" finished-at="2020-04-07T16:20:54Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- annotation3Test99 -->
+        <test-method signature="annotation3Test9()[pri:0, instance:mallikarjunaSelenium.mallikarjunaSelenium.Annotations3@7fee8714]" started-at="2020-04-07T16:20:54Z" name="annotation3Test9" finished-at="2020-04-07T16:20:54Z" depends-on-methods="mallikarjunaSelenium.mallikarjunaSelenium.Annotations3.annotation3Test99" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- annotation3Test9 -->
+        <test-method signature="annotation3Test6()[pri:0, instance:mallikarjunaSelenium.mallikarjunaSelenium.Annotations3@7fee8714]" started-at="2020-04-07T16:20:54Z" name="annotation3Test6" finished-at="2020-04-07T16:20:54Z" depends-on-methods="mallikarjunaSelenium.mallikarjunaSelenium.Annotations3.annotation3Test9" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- annotation3Test6 -->
+        <test-method signature="annotation3Test4()[pri:0, instance:mallikarjunaSelenium.mallikarjunaSelenium.Annotations3@7fee8714]" started-at="2020-04-07T16:20:54Z" name="annotation3Test4" finished-at="2020-04-07T16:20:54Z" depends-on-methods="mallikarjunaSelenium.mallikarjunaSelenium.Annotations3.annotation3Test6" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- annotation3Test4 -->
+        <test-method signature="annotation3Test2()[pri:0, instance:mallikarjunaSelenium.mallikarjunaSelenium.Annotations3@7fee8714]" started-at="2020-04-07T16:20:54Z" name="annotation3Test2" finished-at="2020-04-07T16:20:54Z" depends-on-methods="mallikarjunaSelenium.mallikarjunaSelenium.Annotations3.annotation3Test4" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- annotation3Test2 -->
+      </class> <!-- mallikarjunaSelenium.mallikarjunaSelenium.Annotations3 -->
+      <class name="mallikarjunaSelenium.mallikarjunaSelenium.Annotations2">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:mallikarjunaSelenium.mallikarjunaSelenium.Annotations2@6da21078]" started-at="2020-04-07T16:20:54Z" name="beforeTest" finished-at="2020-04-07T16:20:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:mallikarjunaSelenium.mallikarjunaSelenium.Annotations2@6da21078]" started-at="2020-04-07T16:20:54Z" name="beforeClass" finished-at="2020-04-07T16:20:54Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:mallikarjunaSelenium.mallikarjunaSelenium.Annotations2@6da21078]" started-at="2020-04-07T16:20:54Z" name="beforeMethod" finished-at="2020-04-07T16:20:54Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test1()[pri:0, instance:mallikarjunaSelenium.mallikarjunaSelenium.Annotations2@6da21078]" started-at="2020-04-07T16:20:54Z" name="test1" finished-at="2020-04-07T16:20:54Z" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:mallikarjunaSelenium.mallikarjunaSelenium.Annotations2@6da21078]" started-at="2020-04-07T16:20:54Z" name="afterMethod" finished-at="2020-04-07T16:20:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:mallikarjunaSelenium.mallikarjunaSelenium.Annotations2@6da21078]" started-at="2020-04-07T16:20:54Z" name="beforeMethod" finished-at="2020-04-07T16:20:54Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test2()[pri:0, instance:mallikarjunaSelenium.mallikarjunaSelenium.Annotations2@6da21078]" started-at="2020-04-07T16:20:54Z" name="test2" finished-at="2020-04-07T16:20:54Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:mallikarjunaSelenium.mallikarjunaSelenium.Annotations2@6da21078]" started-at="2020-04-07T16:20:54Z" name="afterMethod" finished-at="2020-04-07T16:20:54Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:mallikarjunaSelenium.mallikarjunaSelenium.Annotations2@6da21078]" started-at="2020-04-07T16:20:54Z" name="afterClass" finished-at="2020-04-07T16:20:54Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:mallikarjunaSelenium.mallikarjunaSelenium.Annotations2@6da21078]" started-at="2020-04-07T16:20:54Z" name="afterTest" finished-at="2020-04-07T16:20:54Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- mallikarjunaSelenium.mallikarjunaSelenium.Annotations2 -->
+    </test> <!-- NewTest -->
+    <test started-at="2020-04-07T10:50:54Z" name="OldTest" finished-at="2020-04-07T10:51:03Z" duration-ms="8657">
+      <class name="mallikarjunaSelenium.mallikarjunaSelenium.NewTest2">
+        <test-method signature="openGoogleChrome2()[pri:0, instance:mallikarjunaSelenium.mallikarjunaSelenium.NewTest2@6392827e]" started-at="2020-04-07T16:20:54Z" name="openGoogleChrome2" finished-at="2020-04-07T16:21:03Z" duration-ms="8654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogleChrome2 -->
+      </class> <!-- mallikarjunaSelenium.mallikarjunaSelenium.NewTest2 -->
+      <class name="mallikarjunaSelenium.mallikarjunaSelenium.Annotations2">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:mallikarjunaSelenium.mallikarjunaSelenium.Annotations2@6da21078]" started-at="2020-04-07T16:20:54Z" name="beforeSuite" finished-at="2020-04-07T16:20:54Z" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:mallikarjunaSelenium.mallikarjunaSelenium.Annotations2@6da21078]" started-at="2020-04-07T16:21:03Z" name="afterSuite" finished-at="2020-04-07T16:21:03Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- mallikarjunaSelenium.mallikarjunaSelenium.Annotations2 -->
+    </test> <!-- OldTest -->
+  </suite> <!-- MainSuite -->
+</testng-results>

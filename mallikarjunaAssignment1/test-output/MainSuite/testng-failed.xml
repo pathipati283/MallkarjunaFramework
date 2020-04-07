@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [MainSuite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="mallikarjunaSelenium.mallikarjunaSelenium.Listener"/>
+  </listeners>
+  <test parallel="none" name="Test1(failed)">
+    <classes>
+      <class name="mallikarjunaSelenium.mallikarjunaSelenium.ListenerDemo">
+        <methods>
+          <include name="login1"/>
+        </methods>
+      </class> <!-- mallikarjunaSelenium.mallikarjunaSelenium.ListenerDemo -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [MainSuite] -->
